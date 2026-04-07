@@ -1,22 +1,16 @@
-﻿using TreeDataStructures.Core;
+using TreeDataStructures.Core;
+using TreeDataStructures.Implementations.BST;
 
-namespace TreeDataStructures.Implementations.BST;
-
-public class BinarySearchTree<TKey, TValue> : BinarySearchTreeBase<TKey, TValue, BstNode<TKey, TValue>>
+namespace TreeDataStructures.Implementations.BST
 {
-    protected override BstNode<TKey, TValue> CreateNode(TKey key, TValue value)
+    public class BinarySearchTree<TKey, TValue> : BinarySearchTreeBase<TKey, TValue, BstNode<TKey, TValue>>
     {
-        throw new NotImplementedException();
+        public BinarySearchTree() : base() { }
+        public BinarySearchTree(IComparer<TKey> comparer) : base(comparer) { }
+
+        protected override BstNode<TKey, TValue> CreateNode(TKey key, TValue value)
+        {
+            return new BstNode<TKey, TValue>(key, value);
+        }
     }
-    
-    protected override void OnNodeAdded(BstNode<TKey, TValue> newNode)
-    {
-        throw new NotImplementedException();
-    }
-    
-    protected override void OnNodeRemoved(BstNode<TKey, TValue>? parent, BstNode<TKey, TValue>? child)
-    {
-        throw new NotImplementedException();
-    }
-    
 }

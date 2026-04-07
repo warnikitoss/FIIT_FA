@@ -1,0 +1,14 @@
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/bin/Debug/net10.0/TreeDataStructures
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/bin/Debug/net10.0/TreeDataStructures.deps.json
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/bin/Debug/net10.0/TreeDataStructures.runtimeconfig.json
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/bin/Debug/net10.0/TreeDataStructures.dll
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/bin/Debug/net10.0/TreeDataStructures.pdb
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.GeneratedMSBuildEditorConfig.editorconfig
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.AssemblyInfoInputs.cache
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.AssemblyInfo.cs
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.csproj.CoreCompileInputs.cache
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.dll
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/obj/Debug/net10.0/refint/TreeDataStructures.dll
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.pdb
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/obj/Debug/net10.0/TreeDataStructures.genruntimeconfig.cache
+/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/obj/Debug/net10.0/ref/TreeDataStructures.dll

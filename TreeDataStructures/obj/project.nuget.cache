@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "tk2krNtCc8I=",
+  "success": true,
+  "projectFilePath": "/home/nikita/fund2.0/FIIT_FA-main/FIIT_FA-main/TreeDataStructures/TreeDataStructures.csproj",
+  "expectedPackageFiles": [
+    "/home/nikita/.nuget/packages/microsoft.dotnet.ilcompiler/10.0.5/microsoft.dotnet.ilcompiler.10.0.5.nupkg.sha512",
+    "/home/nikita/.nuget/packages/microsoft.net.illink.tasks/10.0.5/microsoft.net.illink.tasks.10.0.5.nupkg.sha512",
+    "/home/nikita/.nuget/packages/runtime.linux-x64.microsoft.dotnet.ilcompiler/10.0.5/runtime.linux-x64.microsoft.dotnet.ilcompiler.10.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
